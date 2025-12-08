@@ -14,7 +14,8 @@ Repository | Description
 [AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
 [Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)    | List of resources which help during asset discovery phase of a security assessment engagement
 [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						| List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
-[Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) 						| Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis
+[Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) 						| Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis 
+[Celluar Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking)    | This is a list of hacking research in the 3G/4G/5G cellular security space. 
 [CTF](https://github.com/apsdehal/awesome-ctf) 										| List of CTF frameworks, libraries, resources and softwares
 [Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) | Curated list of hacking environments where you can train your cyber skills legally and safely
 [DevSecOps](https://github.com/devsecops/awesome-devsecops) 						| List of awesome DevSecOps tools with the help from community experiments and contributions
@@ -50,12 +51,14 @@ Repository | Description
 [Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) 	| List of resources for learning about vehicle security and car hacking
 [Vulnerability Research](https://github.com/re-pronin/awesome-vulnerability-research) | List of resources about Vulnerability Research
 [Web Hacking](https://github.com/infoslack/awesome-web-hacking) 					| List of web application security
+[Web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security) | A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.
 [Windows Exploitation - Advanced](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References) | List of Awesome Advanced Windows Exploitation References
 [WiFi Arsenal](https://github.com/0x90/wifi-arsenal) 								| Pack of various useful/useless tools for 802.11 hacking
 [YARA](https://github.com/InQuest/awesome-yara)                                     | List of awesome YARA rules, tools, and people
 [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)                                     | A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking.
+[Cybersources](https://github.com/brunoooost/cybersources) | A collection of all types of tools and resources for cybersecurity.
 
-## Other useful repositories
+## Other Useful Repositories
 
 Repository | Description
 ---- | ----
@@ -67,6 +70,8 @@ Repository | Description
 [Cryptography](https://github.com/sobolevn/awesome-cryptography) | Cryptography resources and tools
 [CTF Tool](https://github.com/SandySekharan/CTF-tool) 								| List of Capture The Flag (CTF) frameworks, libraries, resources and softwares
 [CVE PoC](https://github.com/qazbnm456/awesome-cve-poc) | List of CVE Proof of Concepts (PoCs)
+[CVE PoC updated daily](https://github.com/trickest/cve) | List of CVE Proof of Concepts (PoCs) updated daily by Trickest
+[CyberChef](https://gchq.github.io/CyberChef/) | A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages.
 [Detection Lab](https://github.com/clong/DetectionLab)                              |  Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
 [Forensics](https://github.com/Cugu/awesome-forensics) 								| List of awesome forensic analysis tools and resources
 [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) 			| Free programming books for developers
@@ -94,7 +99,7 @@ Repository | Description
 [Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
 [Vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose
 
-## Need more ?
+## Need More ?
 
 Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
  - Twitter : [@HackwithGithub](https://twitter.com/HackwithGithub)
